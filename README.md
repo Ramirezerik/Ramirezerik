@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ramirezerik
-- 👀 I’m interested in creating solutions for everday problems. 
-- 🌱 I’m currently learning web development with a focus on front-end & back-end development along with data information. 
-- 💞️ I’m looking to collaborate on building web platforms from scratch & improving on existing projects.
+- 👀 Creating solutions for everday problems. 
+- 🌱 Expereinced in web development with a focus on front-end, back-end development and data information. 
+- 💞️ I’m looking to collaborate with other web developers to build web applications & improving on existing projects.
 - 📫 How to reach me: Email: Ramirez_erik@live.com 
 
 <!---
